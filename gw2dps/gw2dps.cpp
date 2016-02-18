@@ -949,7 +949,7 @@ void ESP()
 					stringstream ss;
 					StrInfo strInfo;
 
-					ss << format("Selected & Locked: %i / %i [%i%s]") % (int)selected.cHealth % (int)selected.mHealth % (int)selected.pHealth % "%%";
+					ss << format(" Locked: %i / %i [%i%s]") % (int)locked.cHealth % (int)locked.mHealth % (int)locked.pHealth % "%%";
 
 					strInfo = StringInfo(ss.str());
 					float x = round(aTopLeft.x - strInfo.x / 2);
