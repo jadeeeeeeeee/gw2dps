@@ -1,7 +1,7 @@
 GW2DPS
 =======
 - A DPS meter for GW2. Based on rafi's [gw2lib](http://www.gamerevision.com/showthread.php?3691-Gw2lib&p=45709).
-
+Modified from frifox https://github.com/frifox/gw2dps
 Download
 =======
 - Download & extract latest release [here](https://github.com/frifox/gw2dps/releases)
