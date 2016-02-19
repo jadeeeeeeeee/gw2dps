@@ -86,3 +86,6 @@ Notes
 - If app is complaining about missing MSVCP120d.dll, install vsredist_x86.exe.
 - If app is complaining about missing dx3dx9_43.dll, install dxwebsetup.exe.
 - both vsredist_x86 and dxwebsetup can be found here: https://github.com/frifox/gw2dps/releases/tag/redist
+- 
+
+这是jade的更新测试。
